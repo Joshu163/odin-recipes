@@ -1,0 +1,71 @@
+/* this is where the css for the home page begins */
+
+body {
+    background-color: #67d0f0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+img {
+    border-radius: 25px;
+    height: auto;
+    width: 450px;
+}
+
+h1 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+#links-recipes {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    height: 250px;
+    border: 1px solid black;
+    width:450px;
+    
+    border-radius: 25px;
+    
+}
+
+
+a {
+    text-decoration: none;
+    font-size: 23px;
+    
+   
+
+    padding-top: 30px;
+
+}
+
+a:hover {
+    color: #5b5875;
+}
+
+/* this is where the css for the home page ends*/
+
+/* this is where the css for the Carne asada begins */
+
+.contents {
+    border-radius: 30px;
+    width: 80%;
+    border: 1px solid black;
+    background-color: white;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+     text-align: center;
+}
+
+.list {
+    text-align: center;
+}
